@@ -13,4 +13,4 @@ resources:
 images:
 - name: ghcr.io/dorfpflege-roessing/dorfarchiv
   newName: ghcr.io/dorfpflege-roessing/dorfarchiv
-  newTag: 4593ac15f38d4dfa2a7beaec42ecf5a3b1a80dba
+  newTag: 5caa6f5c772ad0b620bfee5f337ef7e542db7e94
