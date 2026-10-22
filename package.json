@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@anthropic-ai/claude-code": "^2.0.10",
-    "@biomejs/biome": "2.2.5",
+    "@biomejs/biome": "2.4.16",
     "@docusaurus/module-type-aliases": "^3.8.1",
     "@docusaurus/tsconfig": "^3.8.1",
     "@docusaurus/types": "^3.8.1",
